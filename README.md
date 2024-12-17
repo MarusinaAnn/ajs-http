@@ -1,6 +1,6 @@
 # Домашнее задание к занятию "7. Работа с HTTP"
 
-[![CI](https://ci.appveyor.com/api/projects/status/vkodxh60av42kxjq?svg=true)](https://ci.appveyor.com/project/marusinaann/ajs-http)
+[![Build status](https://ci.appveyor.com/api/projects/status/08q9fl4osov3h0vb?svg=true)](https://ci.appveyor.com/project/MarusinaAnn/ajs-http)
 
 https://marusinaann.github.io/ajs-http/
 
